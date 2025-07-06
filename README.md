@@ -39,4 +39,3 @@ If this helped you build or inspire your own site:
 ---
 
 ## 🤝 Let’s Build Together!
-# novitas-portfolio
