@@ -1,8 +1,8 @@
-import React, { useEffect, useRef, useState } from "react";
-import { socials } from "../constants";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
+import { useEffect, useRef, useState } from "react";
 import { Link } from "react-scroll";
+import { socials } from "../constants";
 
 const Navbar = () => {
   const navRef = useRef(null);
@@ -125,7 +125,7 @@ const Navbar = () => {
           <div className="font-light">
             <p className="tracking-wider text-white/50">E-mail</p>
             <p className="text-xl tracking-widest lowercase text-pretty">
-              JohnDoe@gmail.com
+              yash@novitaswebworks.in
             </p>
           </div>
           <div className="font-light">
