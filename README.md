@@ -35,7 +35,7 @@ If this helped you build or inspire your own site:
 
 - 📬 [Connect on LinkedIn](https://www.linkedin.com/in/yash-ambaskar119/)
 
-- 🧑🏻‍💻 [Connect with me on ](yash@novitaswebworks.in)
+- 🧑🏻‍💻 [Connect with me on ](mailto:yash@novitaswebworks.in)
 ---
 
 ## 🤝 Let’s Build Together!
