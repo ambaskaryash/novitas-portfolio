@@ -10,7 +10,7 @@ const About = () => {
     from prototype to production`;
   const aboutText = `Obsessed with building fast, intuitive apps—from pixel-perfect React UIs to bulletproof serverless backends. 
   💻 We specialize in crafting seamless user experiences, whether it's a responsive web app or a mobile-first design. 
-  📱 My goal? To make your product not just functional, but delightful to use.
+  📱 Our goal? To make your product not just functional, but delightful to use.
   🧑🏻‍💻  Let's turn your vision into a reality, with code that's as elegant as it is effective.`;
   const imgRef = useRef(null);
   useGSAP(() => {
